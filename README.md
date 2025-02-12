@@ -1,5 +1,5 @@
 # MusicAI
-
+Main Agent Here: https://github.com/caseywescott/MusicAi/blob/main/daydreams/examples/music-agent.ts
 An AI-assisted music composition tool that enables real-time collaboration through blockchain technology. Combines a visual piano roll interface with intelligent music operations and on-chain storage.
 
 Enables music storage and collaboration on Starknet
