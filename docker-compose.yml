@@ -1,0 +1,42 @@
+services:
+  app:
+    build: .
+    ports:
+      - "4000:4000"
+      - "3000:3000"
+      - "8000:8000"
+      - "8000:8000/udp"
+      - "7400:7400"           # TCP port
+      - "7400:7400/udp"       # UDP port
+      - "9912:9912"           # TCP port
+      - "9912:9912/udp"       # UDP port (explicitly specify both)
+    volumes:
+      - .:/app
+    environment:
+      - NODE_ENV=development
+
+  # Add any other services you might have
+
+  # Example:
+  # other_service:
+  #   image: your_image
+  #   ports:
+  #     - "4000:4000"
+  #   volumes:
+  #     - .:/app
+  #   environment:
+  #     - NODE_ENV=development
+  #   command: your_command
+
+  # Add any other configurations you might need
+
+  # Example:
+  # other_service:
+  #   image: your_image
+  #   ports:
+  #     - "4000:4000"
+  #   volumes:
+  #     - .:/app
+  #   environment:
+  #     - NODE_ENV=development
+  #   command: your_command 
