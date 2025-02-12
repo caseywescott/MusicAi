@@ -2,6 +2,10 @@
 
 An AI-assisted music composition tool that enables real-time collaboration through blockchain technology. Combines a visual piano roll interface with intelligent music operations and on-chain storage.
 
+Enables music storage and collaboration on Starknet
+
+To see Cairo Contract and Note Events: https://sepolia.voyager.online/account-call/519605_4_2
+
 ## Features
 
 - 🎹 Interactive Piano Roll Interface
