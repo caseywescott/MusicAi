@@ -2,9 +2,7 @@
 
 Main Agent Here: https://github.com/caseywescott/MusicAi/blob/main/daydreams/examples/music-agent.ts
 
-MIDI Sequencer client found here: 
-
-https://github.com/caseywescott/music-ai-client
+MIDI Sequencer client found here: https://github.com/caseywescott/music-ai-client
 
 Video Demo: https://www.dropbox.com/scl/fi/29c9wje77y1f9jje7v9nl/MusicAi_Demo_.mov?rlkey=4rhmr6tnne4w52uh7xo25gnvp&st=cqggnmby&dl=0
 
