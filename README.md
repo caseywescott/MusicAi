@@ -4,6 +4,8 @@ Main Agent Here: https://github.com/caseywescott/MusicAi/blob/main/daydreams/exa
 
 MIDI Sequencer client found here: https://github.com/caseywescott/music-ai-client
 
+Starknet Contract: https://github.com/caseywescott/music-ai-contracts
+
 Video Demo: https://www.dropbox.com/scl/fi/29c9wje77y1f9jje7v9nl/MusicAi_Demo_.mov?rlkey=4rhmr6tnne4w52uh7xo25gnvp&st=cqggnmby&dl=0
 
 An AI-assisted music composition tool that enables real-time collaboration through blockchain technology. Combines a visual piano roll interface with intelligent music operations and on-chain storage.
